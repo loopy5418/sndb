@@ -1,5 +1,7 @@
 # sndb
 
+Documentation can be found at https://loopy5418.github.io/sndb-docs !
+
 An embedded, typed database for [Sonata](https://sonata.5418.org/docs). Database → table → column → row.
 
 ```luau
